@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-p5-lazy-loading"
+    }
+  },
+  "defaultProject": "angular-p5-lazy-loading",
+  "cli": {
+    "analytics": false
+  }
 }
